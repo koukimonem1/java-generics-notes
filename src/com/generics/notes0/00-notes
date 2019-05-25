@@ -1,0 +1,5 @@
+1- Generics enable types (classes and interfaces) to be parameters when defining classes, interfaces and methods.
+2- Benefits : ** Stronger type checks at compile time.
+			  ** Elimination of casts.
+			  
+Look at this link : https://docs.oracle.com/javase/tutorial/java/generics/why.html
